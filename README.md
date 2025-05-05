@@ -1,12 +1,13 @@
-# Single_Cell_LiPo_Charge_Choices
+# Single Cell LiPo Charge Choices
 
-Single_Cell_LiPo_Charge_Choices
 
 Looking at these suitable candidates for low power low current draw options the:
 
-- TP4054 (no protection, 1 led)
-- TP4055 (protection, 1 led)
-- TP4057 (protection, 2 leds)
+- TP4054 (no protection, 1 led, uA of current draw when disconnected from charger)
+- TP4055 (protection, 1 led, uA of current draw when disconnected from charger)
+- TP4057 (protection, 2 leds, uA of current draw when disconnected from charger)
+
+add extra protection IC's (DW01A battery protection IC or similar) and (FS8205A dual Mosfets or similar)
 
 are good choices
 
@@ -191,3 +192,8 @@ links
 - https://www.lcsc.com/product-detail/Battery-Management_TPOWER-TP4054_C382138.html
 - https://www.lcsc.com/datasheet/lcsc_datasheet_2306011542_TPOWER-TP4582B_C5464794.pdf
 - https://electronics.stackexchange.com/questions/710777/strange-resistor-in-battery-charger
+- https://hmsemi.com/downfile/DW01A.PDF
+- https://datasheet.lcsc.com/lcsc/2010271837_FUXINSEMI-FS8205A_C908265.pdf
+- https://jlcpcb.com/partdetail/FortuneSemicon-FS8205A/C16052
+- https://electronics.stackexchange.com/questions/656031/can-i-use-this-mosfet-instead-of-the-standard-fs8205
+
