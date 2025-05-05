@@ -197,3 +197,5 @@ links
 - https://jlcpcb.com/partdetail/FortuneSemicon-FS8205A/C16052
 - https://electronics.stackexchange.com/questions/656031/can-i-use-this-mosfet-instead-of-the-standard-fs8205
 
+
+
