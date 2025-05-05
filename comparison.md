@@ -137,7 +137,7 @@ The full voltage is fixed at 4.2V, while the charging current can be set externa
 When the battery reaches 4.2V, the charging current drops to 1/10 of the set value, and the TP4059 will automatically stop charging.
 When the input voltage (AC adapter or USB power supply) is removed, the TP4059 automatically enters a low current state with the battery leakage current below 2uA. Other features of the TP4059 include a charging current monitor, undervoltage latching, automatic recharging, and two status pins to indicate the end of charging and input voltage access
 
-characteristic
+FEATURES
 - Lithium battery reverse connection protection
 - Programmable Charge Current 600mA
 - Trickle, constant-current and constant-voltage control
