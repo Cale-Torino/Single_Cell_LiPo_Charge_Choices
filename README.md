@@ -13,4 +13,4 @@ links
 - https://www.lcsc.com/product-detail/Battery-Management-ICs_TPOWER-TP4054_C382138.html
 - https://www.lcsc.com/product-detail/Battery-Management_TPOWER-TP4054_C382138.html
 - https://www.lcsc.com/datasheet/lcsc_datasheet_2306011542_TPOWER-TP4582B_C5464794.pdf
-
+- https://electronics.stackexchange.com/questions/710777/strange-resistor-in-battery-charger
